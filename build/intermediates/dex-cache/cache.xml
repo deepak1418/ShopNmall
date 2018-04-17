@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/deepak/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/55bf5859c9aa27361bc0f55796121405/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/deepak/Desktop/product copy 2/app/build/intermediates/transforms/preDex/release/22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepak/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.2.0/b76d4269b06b8bda96aac32342a05843b4c0be41/glide-4.2.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b76d4269b06b8bda96aac32342a05843b4c0be41">
+        <dex dex="/Users/deepak/Desktop/product copy 2/app/build/intermediates/transforms/preDex/release/23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepak/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/disklrucache/4.2.0/fd3a444cc7987b5fa2a60fabb116395ca2a4da1c/disklrucache-4.2.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fd3a444cc7987b5fa2a60fabb116395ca2a4da1c">
+        <dex dex="/Users/deepak/Desktop/product copy 2/app/build/intermediates/transforms/preDex/release/26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepak/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/gifdecoder/4.2.0/f196283dab426e09559bfe7385f162b2b254cf72/gifdecoder-4.2.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f196283dab426e09559bfe7385f162b2b254cf72">
+        <dex dex="/Users/deepak/Desktop/product copy 2/app/build/intermediates/transforms/preDex/release/25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepak/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/annotations/4.2.0/1d6fc29f2af61d8fdc31018416040c560423c4b3/annotations-4.2.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1d6fc29f2af61d8fdc31018416040c560423c4b3">
+        <dex dex="/Users/deepak/Desktop/product copy 2/app/build/intermediates/transforms/preDex/release/27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepak/.gradle/caches/transforms-1/files-1.1/design-23.1.0.aar/747ffd25e9132bc07276053ae61f28a1/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="/Users/deepak/Desktop/product copy 2/app/build/intermediates/transforms/preDex/release/20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepak/.gradle/caches/transforms-1/files-1.1/volley-1.1.0-rc1.aar/9a7673d3e4a4520e2d1cf2b97cf0f96e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c034a63bfb92bf0f38a4cf613614de4e06b3ab9f">
+        <dex dex="/Users/deepak/Desktop/product copy 2/app/build/intermediates/transforms/preDex/release/21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepak/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/64ce856e23fed775dafa83583951ca03/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="/Users/deepak/Desktop/product copy 2/app/build/intermediates/transforms/preDex/release/24.jar" />
+    </item>
+
+</items>

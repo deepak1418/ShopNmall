@@ -1,0 +1,139 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/deepak/Desktop/app3/C:\\Users\\SAJAN\\AndroidStudioProjects\\app3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mk\\values-mk.xml",
+            "map": [
+                {
+                    "source": "/Users/deepak/Desktop/app3/C:\\Users\\SAJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d9a672bc0cafa306cc2e9cd15ae6bc91\\res\\values-mk\\values-mk.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,163,286,390,498,584,689,808,891,973,1060,1166,1273,1374,1481,1592,1696,1794,1878",
+                        "endColumns": "107,122,103,107,85,104,118,82,81,86,105,106,100,106,110,103,97,83,100",
+                        "endOffsets": "158,281,385,493,579,684,803,886,968,1055,1161,1268,1369,1476,1587,1691,1789,1873,1974"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/deepak/Desktop/latest/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml",
+            "map": [
+                {
+                    "source": "/Users/deepak/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d020d25092c849f4c099b78a656b52a0/res/values-mk/values-mk.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,163,286,390,498,584,689,808,891,973,1060,1166,1273,1374,1481,1592,1696,1794,1878",
+                        "endColumns": "107,122,103,107,85,104,118,82,81,86,105,106,100,106,110,103,97,83,100",
+                        "endOffsets": "158,281,385,493,579,684,803,886,968,1055,1161,1268,1369,1476,1587,1691,1789,1873,1974"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/deepak/Desktop/product copy/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml",
+            "map": [
+                {
+                    "source": "/Users/deepak/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d020d25092c849f4c099b78a656b52a0/res/values-mk/values-mk.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,163,286,390,498,584,689,808,891,973,1060,1166,1273,1374,1481,1592,1696,1794,1878",
+                        "endColumns": "107,122,103,107,85,104,118,82,81,86,105,106,100,106,110,103,97,83,100",
+                        "endOffsets": "158,281,385,493,579,684,803,886,968,1055,1161,1268,1369,1476,1587,1691,1789,1873,1974"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/deepak/Desktop/product copy 2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml",
+            "map": [
+                {
+                    "source": "/Users/deepak/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d020d25092c849f4c099b78a656b52a0/res/values-mk/values-mk.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,163,286,390,498,584,689,808,891,973,1060,1166,1273,1374,1481,1592,1696,1794,1878",
+                        "endColumns": "107,122,103,107,85,104,118,82,81,86,105,106,100,106,110,103,97,83,100",
+                        "endOffsets": "158,281,385,493,579,684,803,886,968,1055,1161,1268,1369,1476,1587,1691,1789,1873,1974"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/deepak/Desktop/Shop@mall/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml",
+            "map": [
+                {
+                    "source": "/Users/deepak/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d020d25092c849f4c099b78a656b52a0/res/values-mk/values-mk.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,163,286,390,498,584,689,808,891,973,1060,1166,1273,1374,1481,1592,1696,1794,1878",
+                        "endColumns": "107,122,103,107,85,104,118,82,81,86,105,106,100,106,110,103,97,83,100",
+                        "endOffsets": "158,281,385,493,579,684,803,886,968,1055,1161,1268,1369,1476,1587,1691,1789,1873,1974"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/deepak/Desktop/untitled folder/app3 copy/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml",
+            "map": [
+                {
+                    "source": "/Users/deepak/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d020d25092c849f4c099b78a656b52a0/res/values-mk/values-mk.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,163,286,390,498,584,689,808,891,973,1060,1166,1273,1374,1481,1592,1696,1794,1878",
+                        "endColumns": "107,122,103,107,85,104,118,82,81,86,105,106,100,106,110,103,97,83,100",
+                        "endOffsets": "158,281,385,493,579,684,803,886,968,1055,1161,1268,1369,1476,1587,1691,1789,1873,1974"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/deepak/Desktop/app3 copy/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml",
+            "map": [
+                {
+                    "source": "/Users/deepak/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d020d25092c849f4c099b78a656b52a0/res/values-mk/values-mk.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,163,286,390,498,584,689,808,891,973,1060,1166,1273,1374,1481,1592,1696,1794,1878",
+                        "endColumns": "107,122,103,107,85,104,118,82,81,86,105,106,100,106,110,103,97,83,100",
+                        "endOffsets": "158,281,385,493,579,684,803,886,968,1055,1161,1268,1369,1476,1587,1691,1789,1873,1974"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/deepak/Desktop/app3/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml",
+            "map": [
+                {
+                    "source": "/Users/deepak/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d020d25092c849f4c099b78a656b52a0/res/values-mk/values-mk.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,163,286,390,498,584,689,808,891,973,1060,1166,1273,1374,1481,1592,1696,1794,1878",
+                        "endColumns": "107,122,103,107,85,104,118,82,81,86,105,106,100,106,110,103,97,83,100",
+                        "endOffsets": "158,281,385,493,579,684,803,886,968,1055,1161,1268,1369,1476,1587,1691,1789,1873,1974"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/deepak/Desktop/product/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml",
+            "map": [
+                {
+                    "source": "/Users/deepak/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d020d25092c849f4c099b78a656b52a0/res/values-mk/values-mk.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,163,286,390,498,584,689,808,891,973,1060,1166,1273,1374,1481,1592,1696,1794,1878",
+                        "endColumns": "107,122,103,107,85,104,118,82,81,86,105,106,100,106,110,103,97,83,100",
+                        "endOffsets": "158,281,385,493,579,684,803,886,968,1055,1161,1268,1369,1476,1587,1691,1789,1873,1974"
+                    }
+                }
+            ]
+        }
+    ]
+}

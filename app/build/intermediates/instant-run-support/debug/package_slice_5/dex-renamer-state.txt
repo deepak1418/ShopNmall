@@ -1,0 +1,4 @@
+#Wed Feb 14 00:40:35 IST 2018
+base.0=/Users/deepak/Desktop/app3 copy/app/build/intermediates/transforms/dexMerger/debug/24
+path.0=classes.dex
+renamed.0=classes.dex

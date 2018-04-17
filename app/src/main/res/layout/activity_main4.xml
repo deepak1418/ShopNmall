@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.sajan.app3.Main4Activity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="130dp"
+            android:layout_marginBottom="16dp"
+            android:layout_marginTop="16dp"
+            android:text="Payment"
+            android:textAllCaps="true"
+            android:textStyle="bold"
+            android:textColor="@color/colorPrimary"
+            android:textSize="30sp" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginLeft="124dp">
+
+
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+
+            <TextView
+                android:id="@+id/name_text_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="16dp"
+                android:text="Name:"
+                android:textSize="20dp"
+                android:textColor="@android:color/black"
+
+
+                android:textStyle="bold"/>
+
+            <EditText
+                android:id="@+id/Ename"
+                android:layout_width="289dp"
+                android:layout_height="40dp"
+                android:hint="Enter your name"
+                android:drawableLeft="@drawable/ic_person_black_24dp"
+
+                android:background="@drawable/round"/>
+
+        </LinearLayout>
+        <View
+            android:layout_width="3dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_height="10dp"
+            android:background="@null"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+
+            <TextView
+                android:id="@+id/mail_text_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="16dp"
+                android:text="E-mail:"
+                android:textSize="20dp"
+                android:textColor="@android:color/black"
+                android:textStyle="bold"/>
+
+            <EditText
+                android:id="@+id/email"
+                android:layout_width="289dp"
+
+                android:hint="Enter your email address"
+                android:drawableLeft="@drawable/ic_email_black_24dp"
+                android:layout_height="40dp"
+
+
+                android:background="@drawable/round"/>
+
+        </LinearLayout>
+
+
+
+        <View
+            android:layout_width="3dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_height="15dp"
+            android:background="@null"/>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+
+            <TextView
+                android:id="@+id/shipping_text_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="16dp"
+                android:text="Address:"
+                android:textSize="20dp"
+                android:textColor="@android:color/black"
+                android:textStyle="bold"/>
+
+            <EditText
+                android:id="@+id/address"
+                android:layout_width="270dp"
+                android:textAlignment="gravity"
+
+                android:hint="address line"
+                android:layout_height="40dp"
+                android:drawableLeft="@drawable/ic_home_black_24dp"
+
+
+                android:background="@drawable/round"/>
+
+
+        </LinearLayout>
+        <View
+            android:layout_width="3dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_height="15dp"
+            android:background="@null"/>
+
+
+
+        <Button
+            android:id="@+id/btnplace"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="0dp"
+            android:background="@drawable/button"
+            android:text="Place your Order"
+            android:textAllCaps="false"
+            android:textColor="#fff"
+            android:autoSizeMaxTextSize="23dp"
+android:onClick="onplace"
+
+            android:textSize="20sp"
+            android:padding="10dp"
+
+            />
+    </LinearLayout>
+</RelativeLayout>
